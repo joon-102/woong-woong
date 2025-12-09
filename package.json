@@ -1,22 +1,22 @@
 {
-  "name": "myfan",
+  "name": "woong-woong",
   "version": "0.0.1",
-  "description": "my online fan",
+  "description": "woong-woong",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joon-102/myfan.git"
+    "url": "git+https://github.com/joon-102/woong-woong.git"
   },
   "bugs": {
-    "url": "https://github.com/joon-102/myfan/issues",
-    "email": "joon_1@outlook.kr"
+    "url": "https://github.com/joon-102/woong-woong/issues",
+    "email": "taejeong654@gmail.com"
   },
-  "homepage": "https://github.com/joon-102/afreecatv.js#readme",
-  "author": "joon1",
-  "license": "Apache-2.0",
+  "homepage": "https://github.com/joon-102/woong-woong#readme",
+  "author": "taejeong",
+  "license": "CC BY-NC 4.0",
   "dependencies": {
     "express": "^4.19.2",
     "http": "^0.0.1-security",

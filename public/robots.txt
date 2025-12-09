@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://woong-woong.vercel.app/sitemap.xml
