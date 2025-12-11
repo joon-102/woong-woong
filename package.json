@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joon-102/woong-woong.git"
+    "url": "git+https://github.com/taejeong1126/woong-woong.git"
   },
   "bugs": {
-    "url": "https://github.com/joon-102/woong-woong/issues",
+    "url": "https://github.com/taejeong1126/woong-woong/issues",
     "email": "taejeong654@gmail.com"
   },
-  "homepage": "https://github.com/joon-102/woong-woong#readme",
+  "homepage": "https://github.com/taejeong1126/woong-woong#readme",
   "author": "taejeong",
   "license": "CC BY-NC 4.0",
   "dependencies": {
